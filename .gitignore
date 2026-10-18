@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+.vscode/
+.idea/
+tempCodeRunnerFile*
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+
+# Heavy models and datasets
+*.keras
+*.h5
+digit-images/
